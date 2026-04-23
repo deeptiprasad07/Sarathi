@@ -1,0 +1,26 @@
+/* RESET */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* BODY */
+body {
+  background: linear-gradient(120deg, #06c5ff, #cd5831);
+  font-family: "Segoe UI", sans-serif;
+  min-height: 100vh;
+}
+
+
+/* SCROLLBAR */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-thumb {
+  background: #da0b0b;
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #0a1ed1;
+}

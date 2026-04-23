@@ -1,0 +1,17 @@
+.login-container {
+  max-width: 400px;
+  margin: 80px auto;
+}
+
+.login-container h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.login-container input {
+  margin-bottom: 15px;
+}
+
+.login-container button {
+  width: 100%;
+}

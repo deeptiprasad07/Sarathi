@@ -1,0 +1,54 @@
+Rahul Sharma
+Bangalore, India
+rahul.sharma@email.com
++91 9876543210
+LinkedIn: linkedin.com/in/rahulsharma
+GitHub: github.com/rahulsharma
+
+PROFESSIONAL SUMMARY
+Motivated Frontend Developer with experience in building responsive web applications using React.js, JavaScript, HTML, and CSS. Strong understanding of REST APIs, state management, and performance optimization. Passionate about creating scalable and user-friendly solutions.
+
+SKILLS
+Languages: JavaScript, TypeScript, HTML5, CSS3
+Frontend: React.js, Redux, Tailwind CSS, Bootstrap
+Backend: Node.js, Express.js
+Database: MongoDB, MySQL
+Tools: Git, GitHub, VS Code, Postman
+Other: REST API Integration, Responsive Design, JWT Authentication
+
+PROJECTS
+AI Career Assistant Chatbot
+- Built a full-stack AI chatbot using React, Node.js, and MongoDB
+- Implemented OTP authentication and chat session memory
+- Integrated voice input and AI voice output
+- Added file upload and PDF text extraction
+
+E-Commerce Web Application
+- Developed product listing and cart functionality
+- Implemented secure login using JWT
+- Created REST APIs for product management
+
+Weather Dashboard
+- Built a real-time weather app using OpenWeather API
+- Displayed dynamic UI based on weather conditions
+
+EDUCATION
+Bachelor of Technology in Computer Science
+XYZ Institute of Technology, 2025
+CGPA: 8.4
+
+INTERNSHIP
+Frontend Developer Intern – ABC Tech
+June 2024 – August 2024
+- Developed reusable React components
+- Improved website performance by 30%
+- Integrated backend APIs
+
+CERTIFICATIONS
+- Meta Front-End Developer Certification
+- JavaScript Algorithms and Data Structures – freeCodeCamp
+
+ACHIEVEMENTS
+- Solved 300+ problems on LeetCode
+- 5-star in Java on HackerRank
+
